@@ -1,0 +1,6 @@
+node_modules/
+dist/
+dist.zip
+pdf/
+settings.json
+.prettierrc.json
